@@ -1,1 +1,1 @@
-# OrangeHRM_MAnual
+# OrangeHRM_Manual
